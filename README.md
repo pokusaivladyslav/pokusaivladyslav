@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# **🚀 My First GitHub Repository**  
+## Hi, there!
+# **🚀 My First GitHub Repository** 👋
 _Welcome to my first GitHub repository!_  
 
 ## **📌 Table of Contents**  
@@ -26,8 +25,9 @@ This is my **first repository on GitHub**, where I will be practicing **version 
 ## **🛠 Tech Stack**  
 This repository will include projects using various technologies, such as:  
 ✅ **Frontend:** HTML, CSS, JavaScript, React, Angular, Vue
-✅ **Backend:** Node.js, Express, Python  
+✅ **Backend:** Node.js, Express, Python, FastAPI
 ✅ **Database:** MongoDB, MySQL  
+✅ **AI:** GenAI, ChatGPT, Stable Diffusion
 ✅ **Version Control:** Git & GitHub  
 
 ---
@@ -73,7 +73,7 @@ This repository is open-source and available under the **MIT License**.
 ---
 
 ## **👨‍💻 Author**  
-👤 **Your Name**  
+👤 **Vlady Slav**  
 📂 GitHub: [pokusaivladyslav](https://github.com/pokusaivladyslav)  
 🌐 Portfolio: [pokusaivladyslav.com](https://pokusaivladyslav.com)  
 
@@ -81,5 +81,5 @@ This repository is open-source and available under the **MIT License**.
 
 ## **📞 Contact**  
 📧 Email: pokusaivladyslav@github.com  
-💬 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+💬 LinkedIn: [linkedin.com/in/pokusaivladyslav](https://linkedin.com/in/pokusaivladyslav)  
 
