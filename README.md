@@ -1,5 +1,6 @@
 <div align="center">
   <h1> Web & AI Developer </h1>
+  <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Developer GIF" width="550">
 </div>
 
 ### <font color="#3498DB">Services</font>
