@@ -66,5 +66,4 @@ I'm a **Full Stack Developer** with extensive experience in **AI integration** a
 - Built AI-powered sprint velocity predictions
 
 ### **Google Chrome AI Extension**
-- Developed extension for web page interaction via voice and text
-- Integrated with AI services for enhanced functionality
+- Engineered a revolutionary AI-powered browser extension that interprets natural language commands to intelligently interact with webpage elements, draw visual indicators around UI components, execute Google searches in new tabs, and provide real-time assistance through WebSocket communication—all while maintaining cross-browser compatibility and 80% code coverage.RetryClaude can make mistakes. Please double-check responses.
